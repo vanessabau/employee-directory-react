@@ -27,7 +27,7 @@ To use locally React must be installed. Install dependencies by running "npm ins
 
 ### Useage
 
-This is currently only a front-end application. To use locally run 'npm start' from the terminal, otherwise visit the deployed version's url at https://dm-employeedirectory.herokuapp.com/.
+This is currently only a front-end application. To use locally run 'npm start' from the terminal, otherwise visit the deployed version's url at https://employee-directory-react-vanessabau.vercel.app/
 
 ### Licensing
 
